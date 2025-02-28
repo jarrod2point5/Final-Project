@@ -5,12 +5,7 @@ Body {
   
   background-color: #595959;
   margin: 15px;
-  font-family: "Noto Sans", serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
-  font-variation-settings:
-    "wdth" 100;
+ 
 }
 img {
 	display: block;
@@ -80,7 +75,7 @@ img {
 		color:  black;
 		 font-family: "Faculty Glyphic", serif;
   font-weight: 600;
-  font-style: bold;
+  
 	}
 	footer {
 		text-align: center;
